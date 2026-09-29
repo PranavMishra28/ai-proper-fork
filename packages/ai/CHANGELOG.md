@@ -1,5 +1,17 @@
 # ai
 
+## 7.0.123
+
+### Patch Changes
+
+- ede5b89: chore: migrate package builds from tsup to tsdown
+- 50a26d5: fix(ai): ignore pending tool approvals superseded by user messages
+- Updated dependencies [040033b]
+- Updated dependencies [ede5b89]
+  - @ai-sdk/gateway@4.0.101
+  - @ai-sdk/provider@4.0.20
+  - @ai-sdk/provider-utils@5.0.52
+
 ## 7.0.122
 
 ### Patch Changes
